@@ -1,0 +1,122 @@
+[
+    {
+        "": {
+            "nombre": "Galletas de Avena"
+        },
+        "id_venta": 1,
+        "valor": 7000,
+        "iva": 1330.0
+    },
+    {
+        "": {
+            "nombre": "Espresso Doble"
+        },
+        "id_venta": 2,
+        "valor": 3000,
+        "iva": 570.0
+    },
+    {
+        "": {
+            "nombre": "Ensalada"
+        },
+        "id_venta": 3,
+        "valor": 3000,
+        "iva": 570.0
+    },
+    {
+        "": {
+            "nombre": "Galletas de Avena"
+        },
+        "id_venta": 4,
+        "valor": 9000,
+        "iva": 1710.0
+    },
+    {
+        "": {
+            "nombre": "Batido de Frutas"
+        },
+        "id_venta": 5,
+        "valor": 4000,
+        "iva": 760.0
+    },
+    {
+        "": {
+            "nombre": "Frappe de Caramelo"
+        },
+        "id_venta": 6,
+        "valor": 4000,
+        "iva": 760.0
+    },
+    {
+        "": {
+            "nombre": "Chocolate Caliente"
+        },
+        "id_venta": 7,
+        "valor": 7000,
+        "iva": 1330.0
+    },
+    {
+        "": {
+            "nombre": "Jugo Naranja"
+        },
+        "id_venta": 8,
+        "valor": 3000,
+        "iva": 570.0
+    },
+    {
+        "": {
+            "nombre": "Frappe de Caramelo"
+        },
+        "id_venta": 9,
+        "valor": 3000,
+        "iva": 570.0
+    },
+    {
+        "": {
+            "nombre": "Croissant"
+        },
+        "id_venta": 10,
+        "valor": 6000,
+        "iva": 1140.0
+    },
+    {
+        "": {
+            "nombre": "Muffin"
+        },
+        "id_venta": 11,
+        "valor": 2000,
+        "iva": 380.0
+    },
+    {
+        "": {
+            "nombre": "Croissant"
+        },
+        "id_venta": 12,
+        "valor": 8000,
+        "iva": 1520.0
+    },
+    {
+        "": {
+            "nombre": "Te Chai"
+        },
+        "id_venta": 13,
+        "valor": 8000,
+        "iva": 1520.0
+    },
+    {
+        "": {
+            "nombre": "Jugo Naranja"
+        },
+        "id_venta": 14,
+        "valor": 7000,
+        "iva": 1330.0
+    },
+    {
+        "": {
+            "nombre": "Jugo Naranja"
+        },
+        "id_venta": 15,
+        "valor": 5000,
+        "iva": 950.0
+    }
+]
